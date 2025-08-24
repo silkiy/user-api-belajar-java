@@ -26,7 +26,8 @@ The main goal of this project is to learn and practice modern **backend architec
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository and run
 ```bash
 git clone https://github.com/silkiy/user-api-belajar-java.git
 cd user-api-belajar-java/userapi
+./mvnw spring-boot:run
